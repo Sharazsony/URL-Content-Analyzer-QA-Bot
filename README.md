@@ -11,6 +11,20 @@ A Flask-based web application that allows users to input a URL, extract and embe
 - Modern, responsive web UI
 
 ## Tech Stack
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
+  <img src="https://img.shields.io/badge/LangChain-2ECC40?style=for-the-badge&logo=chainlink&logoColor=white" alt="LangChain"/>
+  <img src="https://img.shields.io/badge/FAISS-009688?style=for-the-badge&logo=vectorworks&logoColor=white" alt="FAISS"/>
+  <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Gemini API"/>
+  <img src="https://img.shields.io/badge/Trafilatura-FF9800?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Trafilatura"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
+</p>
+
+<details>
+<summary>Text List</summary>
+
 - Python 3.10+
 - Flask
 - LangChain
@@ -18,6 +32,8 @@ A Flask-based web application that allows users to input a URL, extract and embe
 - Google Gemini API
 - Trafilatura (web scraping)
 - Bootstrap (frontend)
+
+</details>
 
 ## Getting Started
 
